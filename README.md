@@ -5,6 +5,16 @@
 * User can click on location name on top left to navigate to search screen, where user can input a location and select a location or place from the results to get weather information.
 * User can change the units of the weather from celsius to fahrenheit and vice-versa.
 
+<details>
+<summary>Screenshots</summary>
+
+![Location permission UI](https://github.com/harshapulikollu/hp_weather/blob/main/screenshots/Screenshot_1.png "Location permission UI")
+![Weather UI with forecast](https://github.com/harshapulikollu/hp_weather/blob/main/screenshots/Screenshot_2.png "Weather UI with forecast")
+![location or places search UI](https://github.com/harshapulikollu/hp_weather/blob/main/screenshots/Screenshot_3.png "location or places search UI")
+![Error UI](https://github.com/harshapulikollu/hp_weather/blob/main/screenshots/Screenshot_4.png "Error UI")
+</details>
+
+
 ## How to run
 * Install the APK from the `apk` folder or execute below command
 ```bash
