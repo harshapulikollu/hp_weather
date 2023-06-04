@@ -12,7 +12,7 @@
 ```
 ## Building release APK
 ```bash
-    flutter build apk --release --dart-define="weatherApiKey=9332fcc0e58e66a4c76588f197b75be7"
+ flutter build apk --release --dart-define="weatherApiKey=9332fcc0e58e66a4c76588f197b75be7"
 ```
 We use `--dart-define` for providing sensitive information like API key to app, such that we don't need to hardcode the key anywhere in code for enhanced security. (I'll update this readMe to remove API key and will disable the key after 3 days of submission to prevent fraud usage)
 
@@ -23,7 +23,7 @@ We use `--dart-define` for providing sensitive information like API key to app, 
 * [http](https://pub.dev/packages/http) - used for making API calls to [Open weather map](https://openweathermap.org/) for weather and forecast data and [open street map](https://www.openstreetmap.org/#map=5/21.843/82.795) for places data
 * [url_launcher](https://pub.dev/packages/url_launcher) - Used to open URLs such as attribution links and source code links in the browser
 * [geolocator](https://pub.dev/packages/geolocator) - Used for obtaining location permission and get GPS coordinates of the device
-* [intl](https://pub.dev/packages/intl) - used to format [DateTime] timestamps to display on UI
+* [intl](https://pub.dev/packages/intl) - used to format `DateTime` timestamps to display on UI
 
 ## Future roadmap
 Below mentioned were few items I could have worked(What you would do if you had more time)
