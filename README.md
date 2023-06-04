@@ -26,10 +26,13 @@ We use `--dart-define` for providing sensitive information like API key to app, 
 * [intl](https://pub.dev/packages/intl) - used to format [DateTime] timestamps to display on UI
 
 ## Future roadmap
-Below mentioned were few items I could have worked, What you would do if you had more time
+Below mentioned were few items I could have worked(What you would do if you had more time)
 * [ ] Add push notifications to notify users for server weather conditions
 * [ ] Add more in-detail weather information like UV index, air quality and more
 * [ ] Locally store all the locations user searched for in past and keep track of them
 * [ ] Provide an option to user to delete locally saved previously searched locations/places
 * [ ] Locally save units preference of user and show weather information in that units by default
 * [ ] Add a bit more graphic(colors or animations) to today current weather info UI card based on timezone
+
+## Reach out to me @
+[Harsha pulikollu]('https://www.linkedin.com/in/harshapulikollu/')

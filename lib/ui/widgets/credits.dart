@@ -13,8 +13,8 @@ class Credits extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
-            Attribution(name: 'Harsha Pulikollu', url: 'https://openweathermap.org/'),
-            Attribution(name: 'Source code', url: 'https://www.linkedin.com/in/harshapulikollu/'),
+            Attribution(name: 'Harsha Pulikollu', url: 'https://www.linkedin.com/in/harshapulikollu/'),
+            Attribution(name: 'Source code', url: 'https://github.com/harshapulikollu/hp_weather'),
           ],
         ),
       ],
