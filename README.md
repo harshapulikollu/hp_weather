@@ -35,4 +35,4 @@ Below mentioned were few items I could have worked(What you would do if you had 
 * [ ] Add a bit more graphic(colors or animations) to today current weather info UI card based on timezone
 
 ## Reach out to me @
-* [Harsha pulikollu]('https://www.linkedin.com/in/harshapulikollu/')
+* [Harsha Pulikollu](https://www.linkedin.com/in/harshapulikollu/)
