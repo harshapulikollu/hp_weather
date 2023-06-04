@@ -17,13 +17,13 @@
 We use `--dart-define` for providing sensitive information like API key to app, such that we don't need to hardcode the key anywhere in code for enhanced security. (I'll update this readMe to remove API key and will disable the key after 3 days of submission to prevent fraud usage)
 
 ## Dependencies and why we used it
-[async](https://pub.dev/packages/async) - Used for [CancelableOperation](https://pub.dev/documentation/async/latest/async/CancelableOperation-class.html) which acts as deBouncer in search widget
-[bloc](https://pub.dev/packages/bloc), [flutter_bloc]() - Used for State management of the application
-[equatable](https://pub.dev/packages/equatable) - used in the cubit(bloc) states
-[http](https://pub.dev/packages/http) - used for making API calls to [Open weather map](https://openweathermap.org/) for weather and forecast data and [open street map](https://www.openstreetmap.org/#map=5/21.843/82.795) for places data
-[url_launcher](https://pub.dev/packages/url_launcher) - Used to open URLs such as attribution links and source code links in the browser
-[geolocator](https://pub.dev/packages/geolocator) - Used for obtaining location permission and get GPS coordinates of the device
-[intl](https://pub.dev/packages/intl) - used to format [DateTime] timestamps to display on UI
+[async](https://pub.dev/packages/async) - Used for [CancelableOperation](https://pub.dev/documentation/async/latest/async/CancelableOperation-class.html) which acts as deBouncer in search widget \n
+[bloc](https://pub.dev/packages/bloc), [flutter_bloc]() - Used for State management of the application\n
+[equatable](https://pub.dev/packages/equatable) - used in the cubit(bloc) states\n
+[http](https://pub.dev/packages/http) - used for making API calls to [Open weather map](https://openweathermap.org/) for weather and forecast data and [open street map](https://www.openstreetmap.org/#map=5/21.843/82.795) for places data\n
+[url_launcher](https://pub.dev/packages/url_launcher) - Used to open URLs such as attribution links and source code links in the browser\n
+[geolocator](https://pub.dev/packages/geolocator) - Used for obtaining location permission and get GPS coordinates of the device\n
+[intl](https://pub.dev/packages/intl) - used to format [DateTime] timestamps to display on UI\n
 
 ## Future roadmap
 Below mentioned were few items I could have worked, What you would do if you had more time
