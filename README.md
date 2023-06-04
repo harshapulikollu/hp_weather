@@ -8,7 +8,7 @@
 <details>
 <summary>Screenshots</summary>
 
-![Location permission UI](https://github.com/harshapulikollu/hp_weather/blob/main/screenshots/Screenshot_1.png "Location permission UI")
+![Location permission UI](screenshots/Screenshot_1.png "Location permission UI")
 ![Weather UI with forecast](https://github.com/harshapulikollu/hp_weather/blob/main/screenshots/Screenshot_2.png "Weather UI with forecast")
 ![location or places search UI](https://github.com/harshapulikollu/hp_weather/blob/main/screenshots/Screenshot_3.png "location or places search UI")
 ![Error UI](https://github.com/harshapulikollu/hp_weather/blob/main/screenshots/Screenshot_4.png "Error UI")
